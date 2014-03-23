@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                text-align: center;
+                background: #FFFFFF;
+                background-attachment: fixed;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                color: #FFFFFF;
+                font-family: Helvetica;
+            }
+    
+            input {
+                border: 2px #669999 solid;
+                border-radius: 6px;
+                font-size: 18px;
+                padding: 12px;
+            }
+    
+            input[type="button"] {
+                background: #CCFFFF;
+                color: #000000;
+            }
+    
+            input:hover {
+                box-shadow: 0px 0px 5px 2px #7FFF00;
+            }
+    
+            input[type="button"]:hover {
+                cursor: pointer;
+            }
+
+            p {
+                font-size: 24px;
+            }
+        </style>
+        <script type="text/javascript">
+            function checkemail() {
+                var emailfield = document.getElementsByTagName("input")[0].value;
+                if (emailfield !== "" && emailfield.indexOf("@") !== -1 ) {
+                    alert("Your email address is " + emailfield);
+                } else {
+                    alert("You didn't enter anything!");
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <img src="https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/avatar.jpg" height="250" width="250">
+        <p>BEWARE THE ALMIGHTY OWL</p>
+        <input type="email" placeholder="Your email" />
+        <input type="button" onclick="checkemail()" value="Submit" />
+    </body>
+</html>
