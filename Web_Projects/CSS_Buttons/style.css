@@ -7,3 +7,10 @@ div {
     border: 4px solid #FFA500;
     border-radius: 7px;
 }
+
+span {
+    font-family: Arial;
+    position: absolute;
+    top: 26px;
+    left: 42px;
+}
