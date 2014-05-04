@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 
-# The all famous Pyg latin translator from Codecademy written for Python 2 and modified
+# The Pyg Latin Translator from Codecademy written for Python 2 and modified
 
 import sys
 
