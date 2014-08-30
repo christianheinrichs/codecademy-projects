@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# The all famous Pyg latin translator from Codecademy updated to Python 3 and modified
+# The Pyg Latin Translator from Codecademy updated to Python 3 and modified
 
 import sys
 

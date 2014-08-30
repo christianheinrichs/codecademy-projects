@@ -1,3 +1,5 @@
+// Simple Rock, Paper, Scissors game written in JavaScript
+
 var rockpaperscissors = function () {
     var userChoice = prompt("Do you choose rock, paper or scissors?");
     var computerChoice = Math.random();
