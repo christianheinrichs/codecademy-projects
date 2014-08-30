@@ -11,8 +11,6 @@ This is a collection of code projects I made on Codecademy.
 - No projects yet
 
 ## [<img src="js.png" alt="JavaScript" height="32" /> JavaScript](https://github.com/christianheinrichs/codecademy-projects/tree/master/JavaScript)
-<<<<<<< HEAD
-
 - [Cash register](https://github.com/christianheinrichs/codecademy-projects/tree/master/JavaScript/Cash_register)
 - [Rock, Paper, Scissors](https://github.com/christianheinrichs/codecademy-projects/tree/master/JavaScript/Rock_Paper_Scissors)
 
@@ -32,27 +30,6 @@ This is a collection of code projects I made on Codecademy.
 - [Duckifier](Ruby/duckifier.rb)
 - [Redactor program](Ruby/redact_it.rb)
 
-=======
-
-- [Cash register](https://github.com/christianheinrichs/codecademy-projects/tree/master/JavaScript/Cash_register)
-- [Rock, Paper, Scissors](https://github.com/christianheinrichs/codecademy-projects/tree/master/JavaScript/Rock_Paper_Scissors)
-
-## <img src="jquery.png" alt="jQuery" height="32" /> jQuery
-- No projects yet
-
-## <img src="php.png" alt="PHP" height="32" /> PHP
-- No projects yet
-
-## [<img src="python.png" alt="Python" height="32" /> Python](https://github.com/christianheinrichs/codecademy-projects/tree/master/Python)
-- [Battleship - Python 2](https://github.com/christianheinrichs/codecademy-projects/tree/master/Python/battleship_py2.py)
-- [Battleship - Python 3](https://github.com/christianheinrichs/codecademy-projects/tree/master/Python/battleship_py3.py)
-- [Pyg Latin Translator (PTL) - Python 2](https://github.com/christianheinrichs/codecademy-projects/tree/master/Python/plt_py2.py)
-- [Pyg Latin Translator (PTL) - Python 3](https://github.com/christianheinrichs/codecademy-projects/tree/master/Python/plt_py3.py)
-
-## <img src="ruby.png" alt="Ruby" height="32" /> Ruby
-- No projects yet
-
->>>>>>> 2f0015d314a311b6f9edf319d79c1ee637124cd4
 ## [<img src="untitled.png" alt="Web Projects" height="32" /> Web Projects](https://github.com/christianheinrichs/codecademy-projects/tree/master/Web_Projects)
 - [CSS Buttons](https://github.com/christianheinrichs/codecademy-projects/tree/master/Web_Projects/CSS_Buttons)
 - [Checking Input](https://github.com/christianheinrichs/codecademy-projects/tree/master/Web_Projects/Checking_Input)
@@ -61,4 +38,4 @@ This is a collection of code projects I made on Codecademy.
 - [Draw with JavaScript](https://github.com/christianheinrichs/codecademy-projects/tree/master/Web_Projects/Draw_with_JavaScript)
 - [Web Form](https://github.com/christianheinrichs/codecademy-projects/tree/master/Web_Projects/Web_Form)
 
-Programming symbols © 2014 Codecademy
+Program icons © 2014 Codecademy
