@@ -1,39 +1,39 @@
 #button {
-    background-color: #00FF80;
-    cursor: pointer;
-    border: 1px solid #000000;
-    height: 26px;
-    width: 50px;
-    border-radius: 3px;
-    padding-left: 3px;
+  background-color: #00ff80;
+  cursor: pointer;
+  border: 1px solid #000000;
+  height: 26px;
+  width: 50px;
+  border-radius: 3px;
+  padding-left: 3px;
 }
 
 #dltall {
-    background-color: #FF8000;
-    cursor: pointer;
-    border: 1px solid #000000;
-    border-radius: 4px;
-    height: 26px;
-    width: 80px;
-    padding-left: 3px;
+  background-color: #ff8000;
+  cursor: pointer;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  height: 26px;
+  width: 80px;
+  padding-left: 3px;
 }
 
 .dlt {
-    background-color: #FF0000;
-    color: #000000;
-    cursor: pointer;
-    border-radius: 6px;
-    border: 2px solid #000000;
-    height: 25px;
-    width: 346px;
-    padding-left: 3px;
+  background-color: #ff0000;
+  color: #000000;
+  cursor: pointer;
+  border-radius: 6px;
+  border: 2px solid #000000;
+  height: 25px;
+  width: 346px;
+  padding-left: 3px;
 }
 
 .listadd {
-    background-color: #000000;
-    color: #0080C0;
-    height: 25px;
-    width: 350px;
-    border-radius: 4px;
-    padding-left: 3px;
+  background-color: #000000;
+  color: #0080c0;
+  height: 25px;
+  width: 350px;
+  border-radius: 4px;
+  padding-left: 3px;
 }

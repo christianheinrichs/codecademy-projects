@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
 from urllib.request import urlopen
 
@@ -6,7 +6,7 @@ width = input("What width should the picture have? ")
 height = input("What height should the picture have? ")
 
 # Construct the URL
-url = 'http://placekitten.com/' + width + '/' + height
+url = 'https://placekitten.com/' + width + '/' + height
 kitten = urlopen(url).read()
 
 kitten_file = open('kittens.jpeg', 'wb')

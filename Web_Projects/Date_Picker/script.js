@@ -1,4 +1,4 @@
 $(document).ready(function() {
-    $('#departing').datepicker();
-    $('#returning').datepicker();
+  $("#departing").datepicker();
+  $("#returning").datepicker();
 });

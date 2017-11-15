@@ -57,8 +57,8 @@ print ("Existing ship row coordinate: " + str(ship_row))
 print ("Existing ship column coordinate: " + str(ship_col))
 
 for turn in range(4):
-    guess_row = int(input("Guess Row: "))
-    guess_col = int(input("Guess Col: "))
+    guess_row = int(input("Guess row: "))
+    guess_col = int(input("Guess column: "))
 
     if guess_row == ship_row and guess_col == ship_col:
         print("Congratulations! You sunk my battleship!")

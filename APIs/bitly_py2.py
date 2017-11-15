@@ -23,9 +23,9 @@ else:
     pass
 
 query_params = ({"access_token": ACCESS_TOKEN,
-                "apiKey": API_KEY,
-                "login": LOGIN,
-                "longUrl": LONGURL})
+                 "apiKey": API_KEY,
+                 "login": LOGIN,
+                 "longUrl": LONGURL})
 query_params = urlencode(query_params)
 
 url = "https://api-ssl.bitly.com/v3/"

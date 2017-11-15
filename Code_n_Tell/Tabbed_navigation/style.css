@@ -1,56 +1,56 @@
 body {
-    background-color: #000000;
+  background-color: #000000;
 }
 
 span {
-    top: 14px;
-    position: relative;
+  top: 14px;
+  position: relative;
 }
 
 #back {
-    height: 50px;
-    width: 400px;
-    position: absolute;
+  height: 50px;
+  width: 400px;
+  position: absolute;
 }
 
 #files {
-    font-family: helvetica;
-    float: left;
-    background-color: #212121;
-    color: rgb(105, 105, 105);
-    position: relative;
-    height: 50px;
-    width: 100px;
-    text-align: center;
+  font-family: Helvetica;
+  float: left;
+  background-color: #212121;
+  color: rgb(105, 105, 105);
+  position: relative;
+  height: 50px;
+  width: 100px;
+  text-align: center;
 }
 
 .active {
-    background-color: rgb( 35, 44, 49 ) !important;
-    color: #FFFFFF !important;
+  background-color: rgb( 35, 44, 49 ) !important;
+  color: #ffffff !important;
 }
 
 .header {
-    font-family: helvetica;
-    float: left;
-    background-color: #212121;
-    color: rgb(105, 105, 105);
-    position: relative;
-    height: 50px;
-    width: 100px;
-    text-align: center;
+  font-family: Helvetica;
+  float: left;
+  background-color: #212121;
+  color: rgb(105, 105, 105);
+  position: relative;
+  height: 50px;
+  width: 100px;
+  text-align: center;
 }
 
 .show {
-    background-color: rgb( 35, 44, 49 );
-    color: #FFFFFF;
-    height: 400px;
-    width: 400px;
-    top: 58px;
-    position: absolute;
+  background-color: rgb( 35, 44, 49 );
+  color: #ffffff;
+  height: 400px;
+  width: 400px;
+  top: 58px;
+  position: absolute;
 }
 
 .tabbed {
-    position: relative;
-    top: 5px;
-    left: 4px;
+  position: relative;
+  top: 5px;
+  left: 4px;
 }

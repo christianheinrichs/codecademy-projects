@@ -1,28 +1,29 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="style.css"/>
-        <script src="script.js"></script>
-    </head>
-    <body>
-        <form action="javascript:showinfos()">
-            <input type="text" name="firstname" placeholder="First name" /><br>
-            <input type="text" name="lastname" placeholder="Last name" /><br>
-            <span>Gender</span><br>
-            <input name="gender" type="radio" value="Female" />Female<br>
-            <input name="gender" type="radio" value="Male" />Male<br><br>
-            <span>What Codecademy tracks have you already completed?</span><br>
-            <!-- The value attribute is used here temporarily.
-            Some proper approach must be found. -->
-            <input name="tracks" type="checkbox" value="HTML & CSS" />HTML & CSS<br>
-            <input name="tracks" type="checkbox" value="jQuery" />jQuery<br>
-            <input name="tracks" type="checkbox" value="JavaScript" />JavaScript<br>
-            <input name="tracks" type="checkbox" value="PHP" />PHP<br>
-            <input name="tracks" type="checkbox" value="Python" />Python<br>
-            <input name="tracks" type="checkbox" value="Ruby" />Ruby<br><br>
-            <span>Please leave some feedback about the learning process on Codecademy</span><br>
-            <textarea cols="50" rows="8"></textarea><br>
-            <input type="submit" value="Submit" />
-        </form>
-    </body>
+  <head>
+    <title>Client-side form validation</title>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <form action="javascript:showinfos()">
+      <input type="text" name="firstname" placeholder="First name" /><br>
+      <input type="text" name="lastname" placeholder="Last name" /><br>
+      <span>Gender</span><br>
+      <input name="gender" type="radio" value="Female" />Female<br>
+      <input name="gender" type="radio" value="Male" />Male<br><br>
+      <span>What Codecademy tracks have you already completed?</span><br>
+      <!-- The value attribute is used here temporarily. Some proper approach
+           must be found. -->
+      <input name="tracks" type="checkbox" value="HTML & CSS" />HTML & CSS<br>
+      <input name="tracks" type="checkbox" value="jQuery" />jQuery<br>
+      <input name="tracks" type="checkbox" value="JavaScript" />JavaScript<br>
+      <input name="tracks" type="checkbox" value="PHP" />PHP<br>
+      <input name="tracks" type="checkbox" value="Python" />Python<br>
+      <input name="tracks" type="checkbox" value="Ruby" />Ruby<br><br>
+      <span>Please leave some feedback about the learning process on Codecademy</span><br>
+      <textarea cols="50" rows="8"></textarea><br>
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
 </html>

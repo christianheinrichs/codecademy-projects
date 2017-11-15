@@ -6,7 +6,7 @@ width = raw_input("What width should the picture have? ")
 height = raw_input("What height should the picture have? ")
 
 # Construct the URL
-url = 'http://placekitten.com/' + width + '/' + height
+url = 'https://placekitten.com/' + width + '/' + height
 kitten = urlopen(url).read()
 
 kitten_file = open('kittens.jpeg', 'w')

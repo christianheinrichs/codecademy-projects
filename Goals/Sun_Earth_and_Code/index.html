@@ -1,27 +1,32 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" href="style.css" />
-        <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-                $('#poweroff').click(function() {
-                    $('div').hide();
-                    $('img').hide();
-                });
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js">
+            integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f"
+            crossorigin="anonymous"</script>
+    <script>
+      $(document).ready(function() {
+        $("#poweroff").click(function() {
+          $("div").hide();
+          $("img").hide();
+        });
 
-                $('#poweron').click(function() {
-                    $('div').show();
-                    $('img').show();
-                });
-            });
-        </script>
-    </head>
-    <body>
-        <img id="sun" src="http://goo.gl/GwPFIW">
-        <div id='earth-orbit'>
-            <img id="earth" src="http://goo.gl/o3YWu9">
-        </div>
-        <input id="poweron" type="button" value="ON" />
-        <input id="poweroff" type="button" value="OFF" />
-    </body>
+        $("#poweron").click(function() {
+          $("div").show();
+          $("img").show();
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <!-- Image credit: https://www.nasa.gov/content/goddard/one-giant-sunspot-6-substantial-flares/ -->
+    <img id="sun" src="https://www.nasa.gov/sites/default/files/thumbnails/image/304.171full.jpg">
+    <div id="earth-orbit">
+      <!-- Image credit: https://visibleearth.nasa.gov/view.php?id=57723 -->
+      <img id="earth" src="https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57723/globe_west_2048.jpg">
+    </div>
+    <input id="poweron" type="button" value="ON" />
+    <input id="poweroff" type="button" value="OFF" />
+  </body>
 </html>
