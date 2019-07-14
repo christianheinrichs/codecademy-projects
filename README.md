@@ -11,8 +11,8 @@ This is a collection of code projects I made on Codecademy.
 - No projects yet
 
 ## [<img src="img/js.png" alt="JavaScript" height="32" /> JavaScript](javascript)
-- [Cash register](javascript/cash_register)
-- [Rock, Paper, Scissors](javascript/Rock_Paper_Scissors)
+- [Cash register](javascript/cash-register)
+- [Rock, Paper, Scissors](javascript/rock-paper-scissors)
 
 ## [<img src="img/jquery.png" alt="jQuery" height="32" /> jQuery](jQuery)
 - No projects yet
@@ -21,10 +21,10 @@ This is a collection of code projects I made on Codecademy.
 - No projects yet
 
 ## [<img src="img/python.png" alt="Python" height="32" /> Python](Python)
-- [Battleship - Python 2](Python/battleship_py2.py)
-- [Battleship - Python 3](Python/battleship_py3.py)
-- [Pyg Latin Translator (PLT) - Python 2](Python/plt_py2.py)
-- [Pyg Latin Translator (PLT) - Python 3](Python/plt_py3.py)
+- [Battleship - Python 2](python/battleship_py2.py)
+- [Battleship - Python 3](python/battleship_py3.py)
+- [Pyg Latin Translator (PLT) - Python 2](python/plt_py2.py)
+- [Pyg Latin Translator (PLT) - Python 3](python/plt_py3.py)
 
 ## [<img src="img/ruby.png" alt="Ruby" height="32" /> Ruby](Ruby)
 - [Duckifier](Ruby/duckifier.rb)
