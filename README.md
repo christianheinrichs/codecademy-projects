@@ -20,13 +20,13 @@ This is a collection of code projects I made on Codecademy.
 ## <img src="img/php.png" alt="PHP" height="32" /> PHP
 - No projects yet
 
-## [<img src="img/python.png" alt="Python" height="32" /> Python](Python)
+## [<img src="img/python.png" alt="Python" height="32" /> Python](python)
 - [Battleship - Python 2](/python/battleship_py2.py)
 - [Battleship - Python 3](/python/battleship_py3.py)
 - [Pyg Latin Translator (PLT) - Python 2](/python/plt_py2.py)
 - [Pyg Latin Translator (PLT) - Python 3](/python/plt_py3.py)
 
-## [<img src="img/ruby.png" alt="Ruby" height="32" /> Ruby](Ruby)
+## [<img src="img/ruby.png" alt="Ruby" height="32" /> Ruby](ruby)
 - [Duckifier](/ruby/duckifier.rb)
 - [Redactor program](/ruby/redact_it.rb)
 

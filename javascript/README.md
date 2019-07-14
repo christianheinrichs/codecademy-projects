@@ -1,7 +1,8 @@
 Codecademy JavaScript projects
+==============================
 
-This folder contains Codecademy JavaScript projects. Here are the Codebits
-versions:
+This folder contains Codecademy JavaScript projects. Since the Codebits feature
+of Codecademy has been removed, please refer to the following CodePen links:
 
-- Cash register
-- [Rock, Paper, Scissors](https://www.codecademy.com/christianheinrichs/codebits/jsKiYG)
+- [Cash register](https://codepen.io/christianheinrichs/pen/MMdOgv)
+- [Rock, Paper, Scissors](https://codepen.io/christianheinrichs/pen/Bgemaj)

@@ -1,11 +1,11 @@
-The Codebits versions are located here:
+The CodePen versions are located here:
 
 - Basic Projects
-  - [Checking Input](https://www.codecademy.com/christianheinrichs/codebits/WrjOso)
-  - [CSS Buttons](https://www.codecademy.com/christianheinrichs/codebits/UIhHVf)
-  - [Date Picker](https://www.codecademy.com/christianheinrichs/codebits/AjpOZe)
-  - [Draw with JavaScript](https://www.codecademy.com/christianheinrichs/codebits/cvrymf)
-  - [Web Form](https://www.codecademy.com/christianheinrichs/codebits/Kzsyo6)
+  - [Checking Input](https://codepen.io/christianheinrichs/pen/JQqOde)
+  - [CSS Buttons](https://codepen.io/christianheinrichs/pen/wLbPMW)
+  - [Date Picker](https://codepen.io/christianheinrichs/pen/rEgYLv)
+  - [Draw with JavaScript](https://codepen.io/christianheinrichs/pen/RzmLJd)
+  - [Web Form](https://codepen.io/christianheinrichs/pen/agrVmR)
 
 - Advanced Projects
-  - [Client-Side Form Validation](https://www.codecademy.com/christianheinrichs/codebits/6b6wBt)
+  - [Client-Side Form Validation](https://codepen.io/christianheinrichs/pen/zVQEMp)

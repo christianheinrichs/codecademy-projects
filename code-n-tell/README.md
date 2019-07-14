@@ -4,6 +4,6 @@ project.
 As far as I can remember, it was first located in the jQuery track, but has now
 been moved to the Codecademy Codebits feature.
 
-- [List maker Codebits version](https://www.codecademy.com/christianheinrichs/codebits/zVn4og)
-- [Navigation header Codebits version](https://www.codecademy.com/christianheinrichs/codebits/oqZuYG)
-- [Tabbed navigation Codebits version](https://www.codecademy.com/christianheinrichs/codebits/g4VFch)
+- [List maker CodePen version](https://codepen.io/christianheinrichs/pen/bJBqWw)
+- Navigation header Codebits version
+- [Tabbed navigation Codebits version](https://codepen.io/christianheinrichs/pen/KjLXGg)
