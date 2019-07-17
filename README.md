@@ -6,7 +6,7 @@ This is a collection of code projects I made on Codecademy.
 - [placekitten script - Python 2](/apis/placekitten_py2.py)
 - [placekitten script - Python 3](/apis/placekitten_py3.py)
 
-## [APIs](apis)
+## HTML & CSS
 - No projects yet
 
 ## [JavaScript](javascript)
