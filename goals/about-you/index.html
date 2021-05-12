@@ -42,10 +42,10 @@
       function checkemail() {
         var emailfield = document.getElementsByTagName("input")[0].value;
 
-        if (emailfield !== "" && emailfield.indexOf("@") !== -1 ) {
+        if (emailfield !== "" && emailfield.indexOf("@") !== -1 && emailfield.indexOf(".") !== -1) {
           alert("Your email address is " + emailfield);
         } else {
-          alert("You didn't enter anything!");
+          alert("You didn’t enter a valid email address!");
         }
       }
     </script>

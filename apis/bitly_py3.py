@@ -1,7 +1,8 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-# access_token can be used alone, while apiKey needs the login argument
-# user/info endpoint for example doesn't work with apiKey at all.
+# access_token can be used alone, while apiKey needs the login argument.
+# The user/info endpoint for example doesn’t work with apiKey at all.
 
 import sys
 from json import loads
@@ -30,7 +31,7 @@ query_params = ({"access_token": ACCESS_TOKEN,
 query_params = urlencode(query_params)
 
 url = "https://api-ssl.bitly.com/v3/"
-endpoint = input("Please enter a bitly endpoint e.g. shorten: ")
+endpoint = input("Please enter a bitly endpoint, e.g. ‘shorten’: ")
 url = url + endpoint
 
 response = urlopen('%s?%s' % (url, query_params)).read().decode()

@@ -10,6 +10,6 @@ context.stroke();
 context.fillStyle = "blue";
 context.fillRect(100, 100, 85, 85);
 
-// Draw the string "Hello World"
+// Draw the string ‘Hello World’
 context.font = "14px Garamond";
 context.fillText("Hello World", 110, 20);

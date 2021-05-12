@@ -20,9 +20,9 @@ while True:
     if original == "#about":
         print "\nThe Pyg Latin Translator is an easy and fun Python project for beginners.\n"
         print "When a word is entered that begins with a vowel,"
-        print "the translator appends the word “ay” to it like so: Amadeus > amadeusay"
-        print "If the input has got a consonant as it\"s first letter, the translator takes it away,"
-        print "appends it to the end of the word and adds “ay” to the consonant.\n"
+        print "the translator appends the word ‘ay’ to it like so: Amadeus > amadeusay"
+        print "If the input has got a consonant as its first letter, the translator takes it away,"
+        print "appends it to the end of the word and adds ‘ay’ to the consonant.\n"
         print "Example: Foobar > oobarfay"
         print "Another task of the PTL is converting all given input to lowercase.\n"
 
