@@ -1,0 +1,114 @@
+Version 23.3.2014-r1
+- First commit
+
+Version 23.3.2014-r2
+- Correct README files syntax
+
+Version 16.4.2014
+- Add Web_Projects folder
+- Correct README links
+- Update ‘About You’ project
+
+Version 17.4.2014
+- Fix jQuery links
+- Split up ‘Web Form’ into multiple projects
+- ‘Web Projects’ README improvements
+- Make CSS Buttons project look better
+
+Version 19.4.2014-r1
+- Add ‘Checking Input’ project
+- Add ‘Date Picker’ project
+- Add ‘Draw with JavaScript’ project
+- Include learn track icons
+- Update README file
+
+Version 19.4.2014-r2
+- Create APIs folder
+- Edit README file
+
+Version 4.5.2014
+- Update icons
+- Add bitly API script
+- Add placekitten script
+- Add Python battleship game
+- Remove old icons
+
+Version 11.5.2014-r1
+- Add new icons in extracted PNG format
+- Add APIs README file
+- Add Python battleship course link
+- Update README
+- Update Codebits links
+
+Version 11.5.2014-r2
+- Resolve blank space issue in README.md
+
+Version 30.8.2014-r1
+- Fix ‘Code 'n' Tell’ file format
+- Fix ‘Square shape’ button in the ‘Animate Your Name’ project
+- Correct links in ‘Code 'n' Tell’ README
+- Update jQuery to version 1.11.1
+- Replace HTML attribute quote characters
+- Add two Ruby projects
+
+Version 30.8.2014-r2
+- Merge changes
+
+Version 30.8.2014-r3
+- Fix README
+
+Version 15.11.2017-r1
+- Move links to HTTPS
+- Change indentation from four spaces to two spaces in CSS, HTML and JS files
+- Bump jQuery version to 3.2.1
+- Ensure integrity of external files via SRI
+- Use double quotes instead of single quotes in JS and Python files
+- Bump jQuery UI version to 1.12.1
+- Update Codecademy username
+- Declare UTF-8 encoding within Python projects
+- Bump jQuery base CSS version to 1.12.1
+
+Version 15.11.2017-r2
+- Add missing title element
+- Fix script element typo
+- Add ‘alt’ attribute to two ‘img’ elements
+
+Version 14.7.2019-r1
+- Move absolute Markdown links to relative links
+- Rename folders
+- Move images to img
+- Update jQuery to 3.4.1
+- Add .gitignore
+
+Version 14.7.2019-r2
+- Correct folder paths
+
+Version 14.7.2019-r3
+- Use root relative links in README.md
+
+Version 14.7.2019-r4
+- Move Codebits links to CodePen
+
+Version 17.7.2019-r1
+- Replace HTML syntax with Markdown syntax for images
+
+Version 17.7.2019-r2
+- Comment out images
+
+Version 17.7.2019-r3
+- Add headers only
+
+Version 17.7.2019-r4
+- Delete programming language icons
+
+Version 17.7.2019-r5
+- Correct second heading
+
+Version 12.5.2021
+- Replace apostrophes with single quotation marks
+- Slightly improve email address validation in the ‘About you’ project
+- Fold Python multi-comment text at a width of 79
+
+Version 19.1.2022
+- Add changelog
+- Add README plaintext file
