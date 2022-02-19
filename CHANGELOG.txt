@@ -112,3 +112,6 @@ Version 12.5.2021
 Version 19.1.2022
 - Add changelog
 - Add README plaintext file
+
+Version 19.2.2022
+- ‘About You’: Add image credit
