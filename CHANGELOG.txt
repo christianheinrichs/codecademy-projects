@@ -115,3 +115,8 @@ Version 19.1.2022
 
 Version 19.2.2022
 - ‘About You’: Add image credit
+
+Version 20.4.2022
+- Merge project README files into main README files
+- Improve README
+- Add licensing notice
